@@ -1,0 +1,5 @@
+name: 'My CRUD'
+description: 'Custom Module for CRUD'
+package: CRUD
+type: module
+core: 8.x
